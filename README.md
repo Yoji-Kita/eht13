@@ -21,7 +21,7 @@ Ethereum Hack Tokyo #13
 5. Tachyon Demo
 
 ## APIs
-
-- http://18.179.196.24:3002/api/v1/erc865hash?token=&to=&value=1000&fee=100&nonce=123
-- http://18.179.196.24:3002/api/v1/erc865sign?hash=&privateKey=
+- 秘密鍵&アドレス生成: https://vanity-eth.tk/
+- Hash: http://18.179.196.24:3002/api/v1/erc865hash?token=&to=&value=1000&fee=100&nonce=123
+- Sign: http://18.179.196.24:3002/api/v1/erc865sign?hash=&privateKey=
 
