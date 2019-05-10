@@ -1,0 +1,16 @@
+{
+  "name": "erc865",
+  "version": "1.0.0",
+  "description": "",
+  "main": "erc865.js",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.7",
+    "ethereumjs-util": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
